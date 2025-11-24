@@ -9,6 +9,6 @@ export default defineConfig({
     port:5173
   }
   ,
-  base: process.env.VITE_BASE_PATH || "/Appointment/tree/master/frontend"
+  base: process.env.VITE_BASE_PATH || "/"
 })
 
